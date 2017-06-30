@@ -1,2 +1,2 @@
-# rJudaismGuide
-Reddit bot to explain Jewish terms in r/Judaism
+# JudaismBot
+A bot for r/Judaism in Python. Explains Jewish terms.
