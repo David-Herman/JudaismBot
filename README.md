@@ -1,2 +1,2 @@
 # JudaismBot
-A bot for Reddit in Pyhthon
+A bot for r/Judaism in Python. Explains Jewish terms.
